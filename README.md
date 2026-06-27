@@ -72,3 +72,4 @@ export default defineConfig([
 ])
 ```
 # magazin-fake-store
+# magazin-fake-store
